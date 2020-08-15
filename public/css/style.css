@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("../images/todo.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+.delbtn{
+    background: red;
+    margin:10px;
+}
+.editBtn{
+    background-color: blue;
+    margin:10px;
+}
